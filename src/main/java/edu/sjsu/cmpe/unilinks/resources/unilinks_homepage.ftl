@@ -4,7 +4,7 @@
 <title>Unilinks homepage</title>
 </head>
 <body>
-<div style="text-align: center"><img src="/home/anandskash/Pictures/unilinks_logo.jpg" width="442" height="110" alt="Unilinks logo" /></div>
+<div style="text-align: center"><img src="unilinks_logo.jpg" width="442" height="110" alt="Unilinks logo" /></div>
 <h5><div style="text-align: center"> Your one stop destination for university search </div></h5>
 <br><br>
 <div style="text-align: center">Enter the name or a part of the name of the university you are looking for:</div> <br><br><br><br>
