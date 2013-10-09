@@ -8,8 +8,8 @@
 <h5><div style="text-align: center"> Your one stop destination for university search </div></h5>
 <br><br>
 <div style="text-align: center">Enter the name or a part of the name of the university you are looking for:</div> <br><br><br><br>
-<div style="text-align: center"><input type="search" name="universitysearch" /></div><br>
 <form action="unilinks_result.ftl" method="get">
+  <div style="text-align: center"><input type="search" name="universitysearch" /></div><br>
   <div style="text-align: center"><input type="submit" value="Search" name="Submit" id="frm1_submit" /></div>
 </form>
 </body>
